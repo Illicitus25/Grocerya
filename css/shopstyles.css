@@ -49,7 +49,7 @@ hr{
   border-color: grey;
 }
 .stuff{
-  padding: 60px 0 0 60px;
+  padding: 0 0 0 60px;
   margin-right: 0;
 }
 .space{
@@ -60,4 +60,21 @@ hr{
 }
 p{
   margin: 0;
+}
+.s2{
+  width: 50%;
+  height: 150px;
+}
+.s3{
+  display: inline-block;
+  position: relative;
+  bottom: 125px;
+  font-weight: bold;
+  opacity: 1;
+  background: white;
+  padding: 2px;
+}
+.section{
+  margin-top: 50px;
+  height: 150px;
 }
