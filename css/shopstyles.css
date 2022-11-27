@@ -1,0 +1,63 @@
+h1{
+  text-align: center;
+  color: #0D4C92;
+  font-style: italic;
+  text-decoration: underline 1px;
+}
+body{
+  background-color: #CFF5E7;
+  margin-left: 0;
+  margin-right: 0;
+}
+.polaroid{
+  border: 4px solid #A0E4CB;
+  background-color: #EFF5F5;
+}
+.container{
+  border-top: 4px solid #A0E4CB;
+}
+.form{
+  width: 600px;
+  height: 44px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.bar{
+  padding-left: 200px;
+}
+.header{
+  width: 100%;
+}
+.element{
+  text-align: center;
+}
+.shop1{
+  padding-left: 20px;
+}
+.search{
+  height: 30px;
+  width: 600px;
+}
+hr{
+  background-color: #CFF5E7;
+  border-style: solid none none none;
+  height: 0px;
+  width: 100%;
+  border-width: 3px;
+  border-color: grey;
+}
+.stuff{
+  padding: 60px 0 0 60px;
+  margin-right: 0;
+}
+.space{
+  padding: 40px;
+}
+.images{
+  width: 100%;
+}
+p{
+  margin: 0;
+}
